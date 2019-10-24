@@ -287,7 +287,9 @@ Even when ports 80/443 are configured properly, it is not uncommon for other sof
 #### Write thorough and accurate documentation, and provide training as necessary.
 
 Because certificates are security assets, users should understand how the certificate management software works in order to maintain security and privacy. Proper documentation goes a long way, and in some situations such as corporate/organizational settings, training is essential.
-If an active certificate cannot be renewed in time, act according to your site's threat model.
+
+#### If an active certificate cannot be renewed in time, act according to your site's threat model.
+
 If renewal errors persist to the end of the certificate's lifetime, there are several options:
 
 - A) Use the expired certificate
