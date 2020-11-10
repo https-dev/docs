@@ -10,26 +10,21 @@ Please note that different CAs have varying legal terms, pricing, and some diffe
 
 ## Publicly-trusted CAs
 
-* \*\*\*\*[**Let's Encrypt**](https://letsencrypt.org)\*\*\*\*
-  * Production: ****[ https://acme-v02.api.letsencrypt.org/directory](%20https://acme-v02.api.letsencrypt.org/directory)
-  * Test: [ https://acme-staging-v02.api.letsencrypt.org/directory](
-    https://acme-staging-v02.api.letsencrypt.org/directory)
-* \*\*\*\*[**ZeroSSL**](https://zerossl.com/documentation/acme/)\*\*\*\*
+* [**Let's Encrypt**](https://letsencrypt.org)
+  * Production: [https://acme-v02.api.letsencrypt.org/directory](https://acme-v02.api.letsencrypt.org/directory)
+  * Test: [https://acme-staging-v02.api.letsencrypt.org/directory](https://acme-staging-v02.api.letsencrypt.org/directory)
+* [**ZeroSSL**](https://zerossl.com/documentation/acme/)
   * Production: [https://acme.zerossl.com/v2/DV90](https://acme.zerossl.com/v2/DV90)
-* \*\*\*\*[**BuyPass**](https://www.buypass.com/ssl/products/acme)\*\*\*\*
+* [**BuyPass**](https://www.buypass.com/ssl/products/acme)
   * Production: [https://api.buypass.com/acme/directory](https://api.buypass.com/acme/directory)
   * Test: [https://api.test4.buypass.no/acme/directory](https://api.test4.buypass.no/acme/directory)
-* \*\*\*\*[**Sectigo**](https://sectigo.com/resource-library/sectigos-acme-automation)\*\*\*\*
+* [**Sectigo**](https://sectigo.com/resource-library/sectigos-acme-automation)
   * Production:
     * DV: [https://acme.sectigo.com/v2/DV](https://acme.sectigo.com/v2/DV)
     * OV: [https://acme.sectigo.com/v2/OV](https://acme.sectigo.com/v2/OV)
     * EV: [https://acme.sectigo.com/v2/EV](https://acme.sectigo.com/v2/EV)
-* \*\*\*\*[**InCommon**](https://support.sectigo.com/Com_KnowledgeDetailPage?Id=kA01N000000bvYj)\*\*\*\*
+* [**InCommon**](https://support.sectigo.com/Com_KnowledgeDetailPage?Id=kA01N000000bvYj)
   * Production:
     * OV RSA: [https://acme.sectigo.com/v2/InCommonRSAOV](https://acme.sectigo.com/v2/InCommonRSAOV)
-    * OV ECC: [https://acme.sectigo.com/v2/InCommonECCOV](https://acme.sectigo.com/v2/InCommonECCOV)
-
-\*\*\*\*
-
-
+    * OV ECC: [https://acme.sectigo.com/v2/InCommonECCO](https://acme.sectigo.com/v2/InCommonECCOV)
 
