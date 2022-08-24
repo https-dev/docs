@@ -31,3 +31,6 @@ Please note that different CAs have varying legal terms, pricing, and some diffe
   * Production:
     * DV RSA: [https://acme.ssl.com/sslcom-dv-rsa](https://acme.ssl.com/sslcom-dv-rsa)
     * DV ECC: [https://acme.ssl.com/sslcom-dv-ecc](https://acme.ssl.com/sslcom-dv-ecc)
+* [**Google Trust Services**](https://cloud.google.com/certificate-manager/docs/public-ca-tutorial)
+  * Production: [https://dv.acme-v02.api.pki.goog/directory](https://dv.acme-v02.api.pki.goog/directory)
+  * Test: [https://dv.acme-v02.test-api.pki.goog/directory](https://dv.acme-v02.test-api.pki.goog/directory)
