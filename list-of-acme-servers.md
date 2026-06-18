@@ -15,9 +15,6 @@ Please note that different CAs have varying legal terms, pricing, and some diffe
   * Test: [https://acme-staging-v02.api.letsencrypt.org/directory](https://acme-staging-v02.api.letsencrypt.org/directory)
 * [**ZeroSSL**](https://zerossl.com/documentation/acme/)
   * Production: [https://acme.zerossl.com/v2/DV90](https://acme.zerossl.com/v2/DV90)
-* [**BuyPass**](https://www.buypass.com/ssl/products/acme)
-  * Production: [https://api.buypass.com/acme/directory](https://api.buypass.com/acme/directory)
-  * Test: [https://api.test4.buypass.no/acme/directory](https://api.test4.buypass.no/acme/directory)
 * [**Sectigo**](https://sectigo.com/resource-library/sectigos-acme-automation)
   * Production:
     * DV: [https://acme.sectigo.com/v2/DV](https://acme.sectigo.com/v2/DV)
