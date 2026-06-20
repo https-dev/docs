@@ -31,3 +31,5 @@ Please note that different CAs have varying legal terms, pricing, and some diffe
 * [**Google Trust Services**](https://cloud.google.com/certificate-manager/docs/public-ca-tutorial)
   * Production: [https://dv.acme-v02.api.pki.goog/directory](https://dv.acme-v02.api.pki.goog/directory)
   * Test: [https://dv.acme-v02.test-api.pki.goog/directory](https://dv.acme-v02.test-api.pki.goog/directory)
+* [**Actalis**](https://www.actalis.com/manage-with-acme)
+  * Production: [https://acme-api.actalis.com/acme/directory](https://acme-api.actalis.com/acme/directory)
